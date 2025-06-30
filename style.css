@@ -74,6 +74,7 @@ parametro-senha-botoes{
     display: flex;
     justify-content: center;
 }
+
 .parametro-senha__titulo{
     font-size:24px;
 }

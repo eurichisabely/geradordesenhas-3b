@@ -4,8 +4,8 @@
     --branco: #000000;
     --cor-de-fundo: hsl(192, 62%, 56%);
     --fundo-senha: hsla(212, 100%, 15%, 0.733);
-    --fundo-texto: #001E40;
-    --borda: hsla(355, 100%, 50%, 0);
+    --fundo-texto: hsla(212, 100%, 13%, 0);
+    --borda: lab(29.82% 51.95 -82.85 / 0.774);
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }

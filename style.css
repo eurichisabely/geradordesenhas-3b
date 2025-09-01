@@ -4,7 +4,7 @@
     --branco: hsl(0, 0%, 0%);
     --cor-de-fundo: hsl(303, 88%, 26%);
     --fundo-senha: hsl(278, 44%, 61%);
-    --fundo-texto: hsl(295, 83%, 14%);
+    --fundo-texto: hwb(295 30% 15%);
     --borda: hsl(286, 88%, 16%);
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
